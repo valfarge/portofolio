@@ -38,7 +38,12 @@ export const personalDetails = {
   name: "Valentin FARGE",
   tagline: "I build things for web",
   img: profile,
-  about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
+  about: `Cher recruteur,
+  Je suis ravi de vous présenter ma candidature pour un poste de développeur React junior au sein de votre entreprise. Ayant récemment terminé mes études et ayant travaillé sur plusieurs projets personnels, je suis désormais prêt à mettre mes compétences en pratique au sein d'une entreprise dynamique.
+  En tant que développeur junior, je suis conscient que je vais devoir apprendre rapidement et m'adapter à votre environnement de travail. Je suis prêt à relever ce défi en travaillant dur pour améliorer mes compétences et mes connaissances. J'ai une solide connaissance de React, ainsi que des compétences en HTML, CSS et JavaScript, que j'ai acquises tout au long de mes études et de mes projets personnels.
+  J'ai également appris à travailler en équipe en participant à des projets collaboratifs. J'ai découvert l'importance de la communication, de la coordination et de la collaboration pour la réussite d'un projet. Je suis convaincu que ces compétences seront utiles pour travailler efficacement au sein de votre entreprise.
+  Je suis à la recherche d'un poste à temps plein ou en alternance, qui me permettra de mettre en pratique mes compétences, d'apprendre de nouvelles choses et de contribuer à la croissance de votre entreprise. Je suis convaincu que je peux apporter une valeur ajoutée à votre entreprise et je suis impatient de discuter de mes compétences et de mes aspirations avec vous.
+  Je vous remercie pour votre considération et j'espère avoir l'opportunité de vous rencontrer pour discuter davantage de ma candidature.`,
 };
 
 // Enter your Social Media URLs here
